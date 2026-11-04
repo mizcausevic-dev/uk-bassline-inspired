@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "uk-bassline-inspired",
+  "source_builder_sha256": "193800f438f56afed609d0f5430b635e0bf65f95ad8e8bf192e42fb77464cb8e",
+  "commands": [
+    "python tools/build_release.py --pack uk-bassline-inspired",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-04T20:19:15.039008+00:00",
+  "python": "3.14.0"
+}

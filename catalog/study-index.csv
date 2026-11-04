@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ub01,Low Relay,pack-local equal-tempered pitch collection,A,138,4/4,480,32,61440,midi/ub01-low-relay/ub01-low-relay-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ub02,Stop Window,pack-local equal-tempered pitch collection,C,138,4/4,480,32,61440,midi/ub02-stop-window/ub02-stop-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ub03,Steel Corner,pack-local equal-tempered pitch collection,D#,138,4/4,480,32,61440,midi/ub03-steel-corner/ub03-steel-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ub04,Back Again,pack-local equal-tempered pitch collection,A#,138,4/4,480,32,61440,midi/ub04-back-again/ub04-back-again-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

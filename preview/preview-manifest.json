@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/uk-bassline-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "cf916d9add74f7655ef37d94f2acc4a3c7ec8df12d43426a70c348325e154296",
+  "source_midi_path": "midi/ub01-low-relay/ub01-low-relay-combined.mid",
+  "source_midi_sha256": "f7fadba7ae40d2fe7c5ce2967572dc7209dfaba2589485ecee98cf24378e5f95",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "ub01",
+    "start_seconds": 0,
+    "end_seconds": 55.652
+  },
+  "measurement": {
+    "sample_peak": 0.107044,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}
