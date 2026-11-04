@@ -1,0 +1,26 @@
+{
+  "title": "UK Bassline-Inspired",
+  "study": "ub01",
+  "bpm": 138,
+  "source_audio": "preview/uk-bassline-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "cf916d9add74f7655ef37d94f2acc4a3c7ec8df12d43426a70c348325e154296",
+  "source_midi": "midi/ub01-low-relay/ub01-low-relay-combined.mid",
+  "source_midi_sha256": "f7fadba7ae40d2fe7c5ce2967572dc7209dfaba2589485ecee98cf24378e5f95",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a7a41a068d97176400d69cffda0dcfce46421f44f57e1ddbc89c0b919a1b2194",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "91539a57538dad81691457e54ccfeb5d2ebdd46347b0c082dd2d250a6b2e4bac",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "69830733e16746d79c746be4d96f51706d9630a80bf97d8620d613a283e76fdb",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
