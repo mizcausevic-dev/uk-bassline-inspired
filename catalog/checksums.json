@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 790,
-      "sha256": "5b9a401e84601449f0917d9c493d0861a9384ab08ad7344cc96e6cccd02a57fe"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3549,
-      "sha256": "14915568e96f7c9389f1a8ee177219122911b70f471aff1979c4742a3e7201bd"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -113,8 +103,8 @@
     },
     {
       "path": "downloads/uk-bassline-inspired-midi.zip",
-      "bytes": 23544,
-      "sha256": "585e4fc29bcf8632ee260d07baa1d519459af7b349139c055e9859df02f8d318"
+      "bytes": 25544,
+      "sha256": "52c3d37a9a55e882d9a3e393198e3bf1b15ea2c4668fda11796290af2d38f37c"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -135,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 32967,
       "sha256": "7ab321acef0461572f98317cf652ddadd4e8b6fb71b79434703a1e0db28aff30"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 1176437,
-      "sha256": "69830733e16746d79c746be4d96f51706d9630a80bf97d8620d613a283e76fdb"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -168,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9253,
-      "sha256": "9b9a6eae9e8d79ca070b347b80e35a0abdc3995b830521382d34f5f5e38dfc3a"
+      "bytes": 9443,
+      "sha256": "ff0419cfd3be4d484c96be21ad5f0835996a768c80f065e29244fb3430625233"
     },
     {
       "path": "midi/ub01-low-relay/chord_pulse.mid",
@@ -312,6 +297,16 @@
       "sha256": "06d34a8098144463d53696ac783660b4da825c5516ad462742d767b71de0ae4d"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 790,
+      "sha256": "5b9a401e84601449f0917d9c493d0861a9384ab08ad7344cc96e6cccd02a57fe"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1129,
       "sha256": "b263e002ff6e296476c432ca5c6c1069114907b89f8ab3b01e23f6334b2dd71d"
@@ -320,6 +315,11 @@
       "path": "preview/uk-bassline-inspired-simple-synth-preview.mp3",
       "bytes": 1349216,
       "sha256": "cf916d9add74f7655ef37d94f2acc4a3c7ec8df12d43426a70c348325e154296"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3664,
+      "sha256": "7312b410ef962ba03cc9aba4b8e2d4ec32ccbe6513948dc9eea4c64489e2b22b"
     },
     {
       "path": "social/instagram/caption.txt",
